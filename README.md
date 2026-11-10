@@ -10,7 +10,7 @@ Group B achieved a higher conversion rate of **10.20%**, compared with **9.10%**
 
 However, the experiment also showed a statistically significant **Sample Ratio Mismatch (SRM)**, raising concerns about whether users were assigned to the two groups as expected.
 
-Recommendation: Do not launch Group B yet. Although it shows a statistically significant improvement in conversions, the SRM warning must be investigated before the results can be trusted.
+**Recommendation:** Do not launch Group B yet. Although it shows a statistically significant improvement in conversions, the SRM warning must be investigated before the results can be trusted.
 
 ## What the Business Needs to Know
 
