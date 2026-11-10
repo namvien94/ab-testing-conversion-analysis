@@ -34,7 +34,7 @@ However, the experiment also showed a statistically significant **Sample Ratio M
 
 ## Recommended Actions
 
-### 1. Investigate the Sample Ratio Mismatch before launching
+### 1. Investigate the Sample Ratio Mismatch (SRM) before launching
 
 The experiment was expected to allocate users equally between Groups A and B. However, the SRM test returned a p-value of **4.498e-11**, indicating a statistically significant deviation from the expected 50/50 split.
 
