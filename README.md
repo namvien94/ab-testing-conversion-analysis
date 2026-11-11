@@ -32,7 +32,8 @@ However, the experiment also showed a statistically significant **Sample Ratio M
 
 ![Distribution of Expected Conversions: Group A vs. Group B](images/conversion_distribution_ab.png)
 
-The binomial distributions illustrate the expected number of conversions for each group based on their observed conversion rates. Group B's distribution is shifted to the right, indicating higher expected conversions. 
+The binomial distributions illustrate the expected number of conversions for each group based on their observed conversion rates.  
+Group B's distribution is shifted to the right, indicating higher expected conversions. 
 
 ## Recommended Actions
 
