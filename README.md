@@ -30,7 +30,9 @@ However, the experiment also showed a statistically significant **Sample Ratio M
 - Group B generally maintained higher daily conversion rates throughout the experiment.
 - The SRM test detected an unexpected difference in group allocation (**50.97% Group A vs. 49.03% Group B**), which should be investigated before making a launch decision.
 
-![Overall Conversion Rate by Group](images/conversion_rate_comparison.png)
+![Distribution of Expected Conversions: Group A vs. Group B](images/conversion_distribution_ab.png)
+
+The binomial distributions illustrate the expected number of conversions for each group based on their observed conversion rates. Group B's distribution is shifted to the right, indicating higher expected conversions. 
 
 ## Recommended Actions
 
@@ -55,6 +57,8 @@ The statistical test suggests that this difference is unlikely to be explained b
 **Recommended action:** If the SRM issue is resolved and the results remain reliable, consider a controlled rollout of Group B to evaluate whether the improvement continues under normal business conditions.
 
 **Measure success:** Monitor conversion rates, incremental conversions, and customer acquisition performance after rollout.
+
+![Overall Conversion Rate by Group](images/conversion_rate_comparison.png)
 
 ### 3. Evaluate business performance beyond conversion rates
 
